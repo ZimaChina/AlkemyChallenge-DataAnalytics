@@ -28,4 +28,3 @@ python extraccion_datos.py
 python normalizacion_datos.py
 python db.py
 
-
