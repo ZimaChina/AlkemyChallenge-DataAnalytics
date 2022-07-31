@@ -1,5 +1,5 @@
 # AlkemyChallenge-DataAnalytics
-Challenge de análisis de datos de Alkemy, donde se utilizaran Python, Pandas, SqlAlchemy y PostgreSQL como medios.
+**Challenge de análisis de datos de Alkemy, donde se utilizaran Python, Pandas, SqlAlchemy y PostgreSQL como medios.**
 
 1-Para realizar el deploy se deberá ejecutar primero el entorno virtual:
 
