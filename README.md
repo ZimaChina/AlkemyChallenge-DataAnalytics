@@ -29,12 +29,17 @@ pip install python-decouple
 
 
 
-Una vcez instaladas, con "pip list" podemos chequear si las mismas fueron isntaladas, y sus versiones.
+Una vez instaladas, con "pip list" podemos chequear si las mismas fueron isntaladas, y sus versiones.
+
 
 **5**- Por ultimo, dirigirse al directorio main.py y ejecutar los archivos en el siguiente órden:
 
-·  python extraccion_datos.py
-·  python normalizacion_datos.py
-·  python db.py
+python extraccion_datos.py
+
+
+python normalizacion_datos.py
+
+
+python db.py
 
 
