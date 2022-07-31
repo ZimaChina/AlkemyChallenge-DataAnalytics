@@ -3,15 +3,16 @@
 
 **1**-Para realizar el deploy se deberá ejecutar primero el entorno virtual:
 
-*pip install virtualenv
+pip install virtualenv 
 
 **2**- A continuación dirigirse a la carpeta donde se quiera instalar el entorno y ejecutar lo siguiente bajo el nombre que le demos:
 
-·  virtualenv nombre_entorno
+virtualenv nombre_entorno
 
 **3**- Activar entorno:
 
-·  \nombre_entorno\Script\activate
+\nombre_entorno\Script\activate
+
 
 **4**-Una vez tengamos el entorno activado, precederemos a instalar las siguientes dependencias en la consola:
 
