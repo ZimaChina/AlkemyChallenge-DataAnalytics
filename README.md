@@ -3,7 +3,7 @@
 
 **1**-Para realizar el deploy se deberá ejecutar primero el entorno virtual:
 
-·  pip install virtualenv
+*pip install virtualenv
 
 **2**- A continuación dirigirse a la carpeta donde se quiera instalar el entorno y ejecutar lo siguiente bajo el nombre que le demos:
 
