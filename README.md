@@ -14,7 +14,7 @@ virtualenv nombre_entorno
 \nombre_entorno\Script\activate
 
 
-**4-Una vez tengamos el entorno activado, precederemos a instalar las siguientes dependencias en la consola:**
+**4-Una vez tengamos el entorno activado, procederemos a instalar las siguientes dependencias en la consola:**
 
 pip install requests
 
@@ -29,7 +29,7 @@ pip install python-decouple
 
 
 
-Una vez instaladas, con "pip list" podemos chequear si las mismas fueron isntaladas, y sus versiones.
+*Con "pip list" podemos chequear si las mismas fueron isntaladas, y sus versiones.
 
 
 **5- Por ultimo, dirigirse al directorio main.py y ejecutar los archivos en el siguiente órden:**
