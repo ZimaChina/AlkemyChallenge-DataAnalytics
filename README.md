@@ -16,10 +16,18 @@ virtualenv nombre_entorno
 
 **4**-Una vez tengamos el entorno activado, precederemos a instalar las siguientes dependencias en la consola:
 
-·  pip install requests
-·  pip install pandas
-·  pip install sqlalchemy
-·  pip install python-decouple
+pip install requests
+
+
+pip install pandas
+
+
+pip install sqlalchemy
+
+
+pip install python-decouple
+
+
 
 Una vcez instaladas, con "pip list" podemos chequear si las mismas fueron isntaladas, y sus versiones.
 
