@@ -1,19 +1,19 @@
 # AlkemyChallenge-DataAnalytics
 **Challenge de análisis de datos de Alkemy, donde se utilizaran Python, Pandas, SqlAlchemy y PostgreSQL como medios.**
 
-<sub>1-Para realizar el deploy se deberá ejecutar primero el entorno virtual:</sub>
+**1**-Para realizar el deploy se deberá ejecutar primero el entorno virtual:
 
 pip install virtualenv
 
-<sub>2- A continuación dirigirse a la carpeta donde se quiera instalar el entorno y ejecutar lo siguiente bajo el nombre que le demos:</sub>
+**2**- A continuación dirigirse a la carpeta donde se quiera instalar el entorno y ejecutar lo siguiente bajo el nombre que le demos:
 
 virtualenv nombre_entorno
 
-<sub>3- Activar entorno:</sub>
+**3**- Activar entorno:
 
 .\nombre_entorno\Script\activate
 
-<sub>4-Una vez tengamos el entorno activado, precederemos a instalar las siguientes dependencias en la consola:</sub>
+**4**-Una vez tengamos el entorno activado, precederemos a instalar las siguientes dependencias en la consola:
 
 pip install requests
 pip install pandas
@@ -22,7 +22,7 @@ pip install python-decouple
 
 Una vcez instaladas, con "pip list" podemos chequear si las mismas fueron isntaladas, y sus versiones.
 
-<sub>5- Por ultimo, dirigirse al directorio main.py y ejecutar los archivos en el siguiente órden:</sub>
+**5**- Por ultimo, dirigirse al directorio main.py y ejecutar los archivos en el siguiente órden:
 
 python extraccion_datos.py
 python normalizacion_datos.py
