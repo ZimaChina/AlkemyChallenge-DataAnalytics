@@ -29,7 +29,7 @@ pip install python-decouple
 
 
 
-*Con "pip list" podemos chequear si las mismas fueron isntaladas, y sus versiones.
+*Con "pip list" podemos chequear si las mismas fueron instaladas, y sus versiones.
 
 
 **5- Por ultimo, dirigirse al directorio main.py y ejecutar los archivos en el siguiente órden:**
